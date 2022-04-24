@@ -11,4 +11,4 @@ export DOTFILES_LOCATION;
 ###
 # Install dependencies
 ###
-./bin/dotfiles install omz
+./bin/dotfiles.sh install omz
